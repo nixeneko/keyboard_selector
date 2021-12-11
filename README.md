@@ -11,7 +11,7 @@ This script works on Windows, tested on Windows 10.
 2. Install AutoHotkey v1.1.
 3. Execute `change_settings.ahk`
 4. Change the current Windows’ keyboard layout to what you want to set for one of `F13`-`F24` keys.
-5. Push one of `F13`-`F24` keys. The current keyboard will be set for the key. 
+5. Push one of `F13`-`F24` keys. As a dialog will appear, telling that the current keyboard is set for the key, click `OK` to close.
     * `settings.ini` overwritten.
 6. If you have any other keyboard layouts to set for the `F13`-`F24` keys, go to 4.
 7. Close `change_settings.ahk` by right-clicking the AutoHotkey icon on Windows’ notification area and selecting the `Exit`.

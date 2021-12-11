@@ -7,7 +7,7 @@ This script works on Windows, tested on Windows 10.
 
 ### Setup
 1. Prepare a keypad with some of `F13`-`F24` keys.
-    * For _meishi2_ keyboard, A QMK firmware keymap included in the `qmk_keymap/` directory.
+    * For _meishi2_ keyboard, a QMK firmware keymap is included in the `qmk_keymap/` directory.
 2. Install AutoHotkey v1.1.
 3. Execute `change_settings.ahk`
 4. Change the current Windows’ keyboard layout to what you want to set for one of `F13`-`F24` keys.
